@@ -1,6 +1,6 @@
 # Compliance Statement for Pennsylvania CARES Documentation
 
-**Repository:** myPACares.net
+**Repository:** Pennsylvania CARES and all its subsidies including myPACares.net
 **Managing Entity:** Seven Mountains EMS Council (on behalf of the Pennsylvania CARES Program)
 
 ## Purpose & Scope

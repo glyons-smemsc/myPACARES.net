@@ -54,3 +54,5 @@ The official reference for all data elements collected in the registry.
 ---
 
 *This repository is maintained by the Seven Mountains EMS Council on behalf of the Pennsylvania CARES Program. Content is subject to updates to reflect changes in protocol, law, and system functionality.*
+
+> © 2025 Seven Mountains EMS Council (on behalf of the Pennsylvania CARES Program). This documentation is licensed under CC BY-NC-ND 4.0.

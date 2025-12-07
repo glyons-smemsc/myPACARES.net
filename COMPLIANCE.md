@@ -1,25 +1,49 @@
-# Compliance Statement for CARES Documentation
+# Compliance Statement for Pennsylvania CARES Documentation
 
-This repository hosts documentation and resources related to the Pennsylvania Cardiac Arrest Registry to Enhance Survival (CARES) as managed by Seven Mountains EMS Council. These documents are intended for use by licensed and CARES-contributing EMS agencies within the Commonwealth of Pennsylvania under the governance of the Seven Mountains EMS Council and the Pennsylvania CARES Coordinator.
+**Repository:** myPACares.net
+**Managing Entity:** Seven Mountains EMS Council (on behalf of the Pennsylvania CARES Program)
 
-## Legal Compliance: 
+## Purpose & Scope
 
-All documentation and data management practices adhere strictly to the Pennsylvania General Assembly's 2009 EMS Act 37, ensuring the protection of patient privacy and the confidentiality of medical information. Access to these resources is regulated and monitored to comply with federal and state laws, including HIPAA regulations, to ensure the highest standards of privacy and security.
+This GitHub repository hosts documentation, website source code, technical resources, and process guides for the Pennsylvania Cardiac Arrest Registry to Enhance Survival (PA CARES) program. The content is intended to support licensed and CARES-participating EMS agencies, regional EMS councils, and authorized personnel under the governance of the Pennsylvania Department of Health and the Pennsylvania CARES Coordinator.
 
-## Data Handling and Security: 
+**Critical Disclaimer:** This repository does NOT contain, host, or process any Protected Health Information (PHI), confidential patient data, or live registry data. It contains only administrative, educational, and technical documentation.
 
-In managing this registry, we commit to the responsible handling of sensitive data, implementing robust security measures to prevent unauthorized access, disclosure, alteration, or destruction of information. Data usage is strictly limited to purposes of enhancing cardiac arrest survival rates through analysis, research, and improvement of EMS services.
+## Legal & Regulatory Adherence
 
-## Ethical Standards: 
+All operations and data management practices of the PA CARES program itself adhere to:
 
-Our operations and the use of CARES data are guided by the highest ethical standards, ensuring respect for individuals' rights and dignity. We are dedicated to advancing EMS care while safeguarding personal health information, maintaining transparency in our processes, and fostering trust among all stakeholders.
+- The Pennsylvania EMS Act (Act 37 of 2009)
+- The Health Insurance Portability and Accountability Act (HIPAA) Privacy and Security Rules
+- All applicable federal and Commonwealth of Pennsylvania laws governing patient privacy and confidential medical information.
 
-## Collaboration and Use: 
+The materials in this repository are published to facilitate compliance with these laws by authorized users.
 
-Access to and use of CARES documentation by EMS agencies and medical professionals are conditioned upon compliance with the outlined legal and ethical standards. These documents serve as a guide for enhancing service quality and patient outcomes in cardiac arrest incidents and are not intended for public dissemination beyond the authorized audience.
+## Authorized Access & Use
 
-## Updates and Revisions: 
+- Primary Audience: Pennsylvania EMS agencies participating in CARES, their authorized personnel, regional EMS council staff, and the Pennsylvania CARES oversight team.
+- Use Case: The documentation is to be used as a guide for implementing, reporting to, and utilizing the CARES registry to improve cardiac arrest response and patient outcomes.
+- Restrictions: The technical and procedural information here is not intended for public redistribution or commercial use. It is provided "as-is" for the benefit of the Pennsylvania EMS community.
 
-This compliance statement and the associated CARES documentation are subject to periodic review and update to reflect changes in legal requirements, data handling practices, and advancements in EMS care. Stakeholders will be notified of significant amendments to ensure continued compliance and alignment with best practices.
+## Security & Data Handling (Regarding the Registry)
 
-For inquiries or more information regarding compliance and data handling practices, please contact the Pennsylvania CARES Coordinator through the Seven Mountains EMS Council.
+- The actual CARES registry data is housed in secure, HIPAA-compliant platforms separate from this documentation site.
+- The PA CARES program and Seven Mountains EMS Council employ robust administrative, physical, and technical safeguards to protect the confidentiality, integrity, and availability of all sensitive data.
+- Data access is strictly role-based and audited.
+
+## Ethical Commitment
+
+Our work with the CARES registry is guided by the highest ethical standards, focusing on quality improvement, respect for patient dignity, and the advancement of evidence-based EMS care across the Commonwealth. We are committed to transparency in our processes and fostering trust with stakeholders and the communities we serve.
+
+## Repository Content Management
+
+- This COMPLIANCE.md file and all associated documentation will be reviewed periodically.
+- Updates will be made to reflect changes in law, program policy, technology, or best practices.
+- Significant changes to core compliance or data handling guidance will be communicated to stakeholders via standard PA CARES channels.
+
+## Contact for Compliance Inquiries
+
+For questions regarding:
+
+- PA CARES Program Compliance, Data Use, or Access: Contact the Pennsylvania CARES Coordinator through the Seven Mountains EMS Council.
+- Issues or Suggestions for this Documentation Repository: Use the GitHub Issues feature for this repository or contact the repository maintainers.

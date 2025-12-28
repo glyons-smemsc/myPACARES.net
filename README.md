@@ -78,4 +78,4 @@ mypacares-infrastructure/
 
 *This repository is maintained by the Seven Mountains EMS Council on behalf of the Pennsylvania CARES Program. in conjunction with the Pennsylvania Department of Health, Bureau of EMS. Content is subject to updates to reflect changes in protocol, law, and system functionality.*
 
-> © 2025 Seven Mountains EMS Council (on behalf of the Pennsylvania CARES Program). This documentation is licensed under CC BY-NC-ND 4.0.
+> © 2026 Seven Mountains EMS Council (on behalf of the Pennsylvania CARES Program). This documentation is licensed under CC BY-NC-ND 4.0.
